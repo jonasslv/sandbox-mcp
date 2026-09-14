@@ -24,12 +24,6 @@ Example request:
 }
 ```
 
-## Security Features
-
-1. **Resource Constraint**: Containers are limited to 4096MB of RAM and 4 CPU cores
-2. **Timeout Protection**: Execution is limited to 120 seconds
-3. **Read-Only Filesystem**: Container filesystem is mounted as read-only
-
 ## Installation
 
 ```bash
